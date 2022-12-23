@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
-importance: 3
-category: fun
+title: Relational Header Discovery
+description: Column headers are among the most relevant types of meta-data for relational tables, because they provide meaning and context in which the data is to be interpreted. Unfortunately, in many cases column headers are missing. We introduce a fully automated, multi-phase system that discovers table column headers where headers are missing, meaningless, or not representative for the column values.
+img: assets/img/header.png
+importance: 4
+category: Completed
 ---
 
 Every project has a beautiful feature showcase page.

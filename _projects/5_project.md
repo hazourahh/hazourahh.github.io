@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 5
-description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-category: fun
+title: Single Column Profiler
+description: A Metanome algorithm that collects the statistics about each column of the input dataset (*.csv file) like Data type, Min, Max, Standard deviation, Average, Top 10 frequent items and their frequencies, ...
+img: assets/img/Data-Profiling.jpg
+redirect: https://github.com/hazourahh/Single-Column-Profiler
+importance: 6
+category: Completed
 ---
 
 Every project has a beautiful feature showcase page.

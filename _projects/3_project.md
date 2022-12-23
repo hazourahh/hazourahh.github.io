@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Real estate Rating
+description: Rating the value of a real-estate is a complex process relying on local and global properties. The IREBS of the University of Regensburg and HPI's Information Systems and the Algorithm Engineering groups collaborate to automate real-estate valuation by means of data engineering and artificial intelligence. The project is funded by Deutscher Sparkassenverlag from July 2020 to September 2021
+img: assets/img/dsv.jpg
+redirect: https://hpi.de/news/jahrgaenge/2021/forschungsteam-entwickelt-modell-zur-automatisierten-bewertung-von-immobilien.html
 importance: 3
-category: work
+category: Completed
 ---
 
 Every project has a beautiful feature showcase page.

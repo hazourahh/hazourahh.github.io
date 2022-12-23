@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
+title: KITQAR
+description: An interdisciplinary project in collaboration with VDE, Tübingen and Köln universities. It shed light on the role of AI data from a legal, ethical, informational and practical perspective. KITQAR is funded by Federal Ministry of Labour and Social Affairs from Dec. 2021 to Jul. 2023.
+redirect: https://hpi.de/naumann/projects/data-integration-data-quality-and-data-cleansing/kitqar-data-quality-for-ai-applications.html
+img: assets/img/KITQAR.png
 importance: 1
-category: work
+category: Active
 ---
 
 Every project has a beautiful feature showcase page.

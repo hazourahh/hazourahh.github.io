@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Metanome
+description: A project in cooperation with QCRI. It provides a fresh view on data profiling by developing and integrating efficient algorithms into a common tool, expanding on the functionality of data profiling, and addressing performance and scalability issues for Big Data.
+redirect: http://metanome.de/
+img: assets/img/metanome.png
 importance: 2
-category: work
+category: Active
 ---
 
 Every project has a beautiful feature showcase page.

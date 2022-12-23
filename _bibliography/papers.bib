@@ -1,83 +1,120 @@
 ---
 ---
 
-@string{aps = {American Physical Society,}}
+@article{harmouch2019coherance,
+  title={Relational Header Discovery using Similarity Search in a Table Corpus.},
+  author={Harmouch, Hazar and Papenbrock, Thorsten and Naumann, Felix},
+  journal={Proceedings of the International Conference on Data Engineering (ICDE)},
+  volume={},
+  number={},
+ pages = {444--455},
+  year={2021},
+  selected={true},
+   bibtex_show={true},
+   doi = {10.1109/ICDE51399.2021.00045},
+   altmetric={10.1109},
+   preview={ICDE21.jpg}, 
+   pdf={https://ieeexplore.ieee.org/document/9458838},
+   abstract={Column headers are among the most relevant types of meta-data for relational tables, because they provide meaning and context in which the data is to be interpreted. Headers play an important role in many data integration, exploration, and cleaning scenarios, such as schema matching, knowledge base augmentation, and similarity search. Unfortunately, in many cases column headers are missing, because they were never defined properly, are meaningless, or have been lost during data extraction, transmission, or storage. For example, around one third of the tables on the Web have missing headers. Missing headers leave abundant tabular data shrouded and inaccessible to many data-driven applications.We introduce a fully automated, multi-phase system that discovers table column headers for cases where headers are missing, meaningless, or unrepresentative for the column values. It leverages existing table headers from web tables to suggest human-understandable, representative, and consistent headers for any target table. We evaluate our system on tables extracted from Wikipedia. Overall, 60% of the automatically discovered table headers are exact and complete. Considering more header candidates, top-5 for example, increases this percentage to 72%.}
+}
 
-@book{einstein1956investigations,
+@article{kruse2016data,
+  title={Data Anamnesis: Admitting Raw Data into an Organization.},
+  author={Kruse, Sebastian and Papenbrock, Thorsten and Harmouch, Hazar and Naumann, Felix},
+  journal={IEEE Data Engineering Bulletin},
+  volume={39},
+  number={2},
+  pages={8--20},
+  year={2016},
+   bibtex_show={true},
+   preview={bulltin.png},
+   pdf={http://sites.computer.org/debull/A16june/p8.pdf},
+     abstract={Today’s internet offers a plethora of openly available datasets, bearing great potential for novel applications and research. Likewise, rich datasets slumber within organizations. However, all too often those datasets are available only as raw dumps and lack proper documentation or even a schema. Data anamnesis is the first step of any effort to work with such datasets: It determines fundamental properties regarding the datasets’ content, structure, and quality to assess their utility and to put them to use appropriately. Detecting such properties is a key concern of the research area of data profiling, which has developed several viable instruments, such as data type recognition and foreign key discovery. In this article, we perform an anamnesis of the MusicBrainz dataset, an openly available and complex discographic database. In particular, we employ data profiling methods to create data summaries and then further analyze those summaries to reverse-engineer the database schema, to understand the data semantics, and to point out tangible schema quality issues. We propose two bottom-up schema quality dimensions, namely conciseness and normality, that measure the fit of the schema with its data, in contrast to a top-down approach that compares a schema with its application requirements.}
+   }
+
+@article{al2015evaluating,
+  title={Evaluating four of the most popular open source and free data mining tools},
+  author={Al-Khoder, Ahmad and Harmouch, Hazar},
+  journal={IJASR International Journal of Academic Scientific Research},
+  volume={3},
+  number={1},
+  pages={13--23},
+  year={2015},
+   bibtex_show={true},
+   preview={ijasr.png},
+   pdf={https://www.ijasrjournal.org/wp-content/uploads/2015/03/MS2-15.pdf},
+   abstract={The ability of DM to provide predictive information derived from huge datasets became an effective tool for companies and individuals. Along with the increasing importance of this science, there was rapid increase in the number of free and open source tools developed to implement its concepts. It wouldn’t be easy to decide which tool performs the desired task better, plus we cannot rely solely on description provided by the vendor. This paper aims to evaluate four of the most popular open source and free DM tools, namely: R, RapidMiner, WEKA and KNIME to help user, developer, and researcher in choosing his preferred tool in terms of platform in use, format of data to be mined and desired output format, needed data visualization form, performance, and the intent to develop unexciting functionality. As a result, All tools under study are modular, easy to extend, and can run on cross-platforms. R is the leading in terms of range of input/output formats, and visualization types, followed by RapidMiner, KNIME, and finally WEKA. Based on the results yielded it can be conducted that WEKA outperformed the highest accuracy level and subsequently the best performance.}
+}
+
+@article{harmouch2017cardinality,
+  title={Cardinality estimation: an experimental survey},
+  author={Harmouch, Hazar and Naumann, Felix},
+  journal={PVLDB},
+  volume={11},
+  number={4},
+  pages={499--512},
+  year={2017},
+  publisher={VLDB Endowment},
   bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation,},
-  preview={brownian-motion.gif}
+  preview={vldb.gif},
+  pdf={https://www.vldb.org/pvldb/vol11/p499-harmouch.pdf},
+  abstract={Data preparation and data profiling comprise many both basic and complex tasks to analyze a dataset at hand and extract metadata, such as data distributions, key candidates, and functional dependencies. Among the most important types of metadata is the number of distinct values in a column, also known as the zeroth-frequency moment. Cardinality estimation itself has been an active research topic in the past decades due to its many applications. The aim of this paper is to review the literature of cardinality estimation and to present a detailed experimental study of twelve algorithms, scaling far beyond the original experiments. First, we outline and classify approaches to solve the problem of cardinality estimation - we describe their main idea, error-guarantees, advantages, and disadvantages. Our experimental survey then compares the performance all twelve cardinality estimation algorithms. We evaluate the algorithms' accuracy, runtime, and memory consumption using synthetic and real-world datasets. Our results show that different algorithms excel in different in categories, and we highlight their trade-offs.}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics,},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers,}
-}
-
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.,},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  selected={true}
-}
-
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik,},
-  volume={322},
+@article{berti2018discovery,
+  title={Discovery of genuine functional dependencies from relational data with missing values},
+  author={Berti-Equille, Laure and Harmouch, Hazar and Naumann, Felix and Novelli, No\"el and Thirumuruganathan, Saravanan},
+  journal={PVLDB},
+  volume={11},
   number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+  pages={880--892},
+  year={2018},
+  publisher={VLDB Endowment},
+   bibtex_show={true},
+   preview={vldb.gif},
+   pdf={https://www.vldb.org/pvldb/vol11/p880-berti-equille.pdf},
+   abstract={Functional dependencies (FDs) play an important role in maintaining data quality. They can be used to enforce data consistency and to guide repairs over a database. In this work, we investigate the problem of missing values and its impact on FD discovery. When using existing FD discovery algorithms, some genuine FDs could not be detected precisely due to missing values or some non-genuine FDs can be discovered even though they are caused by missing values with a certain NULL semantics. We define a notion of genuineness and propose algorithms to compute the genuineness score of a discovered FD. This can be used to identify the genuine FDs among the set of all valid dependencies that hold on the data. We evaluate the quality of our method over various real-world and semi-synthetic datasets with extensive experiments. The results show that our method performs well for relatively large FD sets and is able to accurately capture genuine FDs.}
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.,},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@article{ind2019,
+  title={Inclusion Dependency Discovery:An Experimental Evaluation of Thirteen Algorithms.},
+  author={D\"ursch, Falco  and  Stebner, Axel and Windheuser, Fabian and Fischer, Maxi and Friedrich, Tim and Strelow, Nils and  Bleifu\ss, Tobias and Harmouch, Hazar and Jiang, Lan  and Papenbrock, Thorsten and Naumann, Felix},
+  journal={Proceedings of the International Conference on Information and Knowledge Management (CIKM)},
+  volume={},
+  number={},
+  pages={},
+  year={2019},
+  publisher={},
+   bibtex_show={true},
+   preview={cikm19.jpg},
+   pdf={https://hpi.de/fileadmin/user_upload/fachgebiete/naumann/publications/PDFs/2019_duersch_inclusion.pdf},
+   abstract={Inclusion dependencies are an important type of metadata in relational databases, because they indicate foreign key relationships and serve a variety of data management tasks, such as data linkage, query optimization, and data integration. The discovery of inclusion dependencies is, therefore, a well-studied problem and has been addressed by many algorithms. Each of these discovery algorithms follows its own strategy with certain strengths and weaknesses, which makes it difficult for data scientists to choose the optimal algorithm for a given profiling task. This paper summarizes the different state-of-the-art discovery approaches and discusses their commonalities. For evaluation purposes, we carefully re-implemented the thirteen most popular discovery algorithms and discuss their individual properties. Our extensive evaluation on several real-world and synthetic datasets shows the unbiased performance of the different discovery approaches and, hence, provides a guideline on when and where each approach works best. Comparing the different runtimes and scalability graphs, we identify the best approaches for certain situations and demonstrate where certain algorithms fail.}
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
+@phdthesis{Harmouch20,
+  author    = {Hazar Harmouch},
+  title     = {Single-column data profiling},
+  school    = {University of Potsdam, Germany},
+  year      = {2020},
+  url       = {https://publishup.uni-potsdam.de/frontdoor/index/index/docId/47455},
+  urn       = {urn:nbn:de:kobv:517-opus4-474554},
+  timestamp = {Sat, 17 Jul 2021 09:02:38 +0200},
+  biburl    = {https://dblp.org/rec/phd/dnb/Harmouch20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  selected={true},
+  preview={hat.gif},
+  pdf={https://publishup.uni-potsdam.de/opus4-ubp/frontdoor/deliver/index/docId/47455/file/harmouch_diss.pdf},
+   bibtex_show={true},
+   abstract={The research area of data profiling consists of a large set of methods and processes to examine a given dataset and determine metadata about it. Typically, different data profiling tasks address different kinds of metadata, comprising either various statistics about individual columns (Single-column Analysis) or relationships among them (Dependency Discovery). Among the basic statistics about a column are data type, header, the number of unique values (the column's cardinality), maximum and minimum values, the number of null values, and the value distribution. Dependencies involve, for instance, functional dependencies (FDs), inclusion dependencies (INDs), and their approximate versions. Data profiling has a wide range of conventional use cases, namely data exploration, cleansing, and integration. The produced metadata is also useful for database management and schema reverse engineering. Data profiling has also more novel use cases, such as big data analytics. The generated metadata describes the structure of the data at hand, how to import it, what it is about, and how much of it there is. Thus, data profiling can be considered as an important preparatory task for many data analysis and mining scenarios to assess which data might be useful and to reveal and understand a new dataset's characteristics. In this thesis, the main focus is on the single-column analysis class of data profiling tasks. We study the impact and the extraction of three of the most important metadata about a column, namely the cardinality, the header, and the number of null values. First, we present a detailed experimental study of twelve cardinality estimation algorithms. We classify the algorithms and analyze their efficiency, scaling far beyond the original experiments and testing theoretical guarantees. Our results highlight their trade-offs and point out the possibility to create a parallel or a distributed version of these algorithms to cope with the growing size of modern datasets. Then, we present a fully automated, multi-phase system to discover human-understandable, representative, and consistent headers for a target table in cases where headers are missing, meaningless, or unrepresentative for the column values. Our evaluation on Wikipedia tables shows that 60% of the automatically discovered schemata are exact and complete. Considering  more  schema  candidates,  top-5  for  example,  increases  this  percentage  to 72%. Finally, we formally and experimentally show the ghost and fake FDs phenomenon caused by FD discovery over datasets with missing values. We propose two efficient scores, probabilistic and likelihood-based, for estimating the genuineness of a discovered FD.  Our extensive set of experiments on real-world and semi-synthetic datasets show the effectiveness and efficiency of these scores}
 }
 
-@book{przibram1967letters,
+@article{budach2022effects,
+  title={The Effects of Data Quality on Machine Learning Performance},
+  author={Budach, Lukas and Feuerpfeil, Moritz and Ihde, Nina and Nathansen, Andrea and Noack, Nele Sina and Patzlaff, Hendrik and Naumann, Felix and Harmouch, Hazar},
+  journal={arXiv preprint arXiv:2207.14529},
+  year={2022},
   bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
-}
+  altmetric={2207.14529},
+   pdf= {https://arxiv.org/pdf/2207.14529.pdf},
+  abstract={Modern artificial intelligence (AI) applications require large quantities of training and test data. This need creates critical challenges not only concerning the availability of such data, but also regarding its quality. For example, incomplete, erroneous or inappropriate training data can lead to unreliable models that produce ultimately poor decisions. Trustworthy AI applications require high-quality training and test data along many dimensions, such as accuracy, completeness, consistency, and uniformity. We explore empirically the relationship between six of the traditional data quality dimensions and the performance of fifteen widely used machine learning (ML) algorithms covering the tasks of classification, regression, and clustering, with the goal of explaining their performance in terms of data quality. Our experiments distinguish three scenarios based on the AI pipeline steps that were fed with polluted data: polluted training data, test data, or both. We conclude the paper with an extensive discussion of our observations.}
+  }

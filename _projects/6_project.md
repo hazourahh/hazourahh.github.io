@@ -1,10 +1,11 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: Cardinality Estimation
+description: Among the most important types of metadata is the number of distinct values in a column, also known as the zeroth-frequency moment. Cardinality estimation itself has been an active research topic in the past decades due to its many applications. The aim of this work is to review the literature of cardinality estimation and to present a detailed experimental study of twelve algorithms, scaling far beyond the original experiments.
+redirect: https://hpi.de//en/naumann/projects/repeatability/data-profiling/cardinality-estimation.html
+img: assets/img/cardinality.png
+importance: 5
+category: Completed
 ---
 
 Every project has a beautiful feature showcase page.
