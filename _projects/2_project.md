@@ -3,7 +3,7 @@ layout: page
 title: Metanome
 description: A project in cooperation with QCRI. It provides a fresh view on data profiling by developing and integrating efficient algorithms into a common tool, expanding on the functionality of data profiling, and addressing performance and scalability issues for Big Data.
 redirect: http://metanome.de/
-img: assets/img/metanome.png
+img: assets/img/metanome.jpg
 importance: 2
 category: Active
 ---
