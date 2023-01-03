@@ -4,7 +4,7 @@
     - name: Full Name
       value: Hazar Harmouch (She)
     - name: Languages
-      value: English, German, Arabic
+      value: English (Fluent), German (Upper-intermediate), Arabic (Native)
 
 - title: Education
   type: time_table
@@ -13,8 +13,8 @@
       institution: Hasso-Plattner-Institut | Universität Potsdam, Germany
       year: 2020
       description:
-        - Dissertation. Single-column Data Profiling
-        - Doktorvater. Prof. Dr. Felix Naumann
+        - "Dissertation: Single-column Data Profiling"
+        - "Supervisor (Doktorvater): Prof. Dr. Felix Naumann"
         - title: Reviewers
           contents:
             - Prof. Dr.-Ing. Wolfgang Lehner
@@ -23,7 +23,7 @@
       institution: Al Baath University, Homs, Syria
       year: 2015
       description:
-        - Dissertation. Effectiveness of ensemble methods in sentiment analysis of Tweets
+        - "Dissertation: Effectiveness of ensemble methods in sentiment analysis of Tweets"
             
 - title: Experience
   type: time_table
@@ -32,17 +32,17 @@
       institution: Hasso-Plattner-Institut | Universität Potsdam, Germany
       year: 2020-2023
       description:
-        - Research focus. Data quality for/with artificial intelligence
+        - "Research focus: Data quality for/with artificial intelligence"
         
     - title: Researcher
       institution: Hasso-Plattner-Institut | Universität Potsdam, Germany
       year: 2015-2020
       description:
-        - Research focus. Data profiling, quality, cleaning, and integration
+        - "Research focus: Data profiling, quality, cleaning, and integration"
         
     - title: Lecturer
       institution: Faculty of Informatics Engineering at Al Baath University, Homs, Syria
-      year: 2015-2020
+      year: 2010-2015
   
 
 - title: Honors and Awards
@@ -65,12 +65,12 @@
         - The memorial license for excellent graduate by Al-Baath University
        
 
-- title: Academic activity
+- title: Academic Activity
   type: nested_list
   contents:
     - title: Program committee memberships
       items: 
-        - DBML'22, '23
+        - DBML 2022, 2023
         - SIGMOD 2022 (research track) --> <a href='https://sigmod.org/sigmod-distinguished-aes-and-pcs/'>Listed as a distinguished reviewer</a>
         - BTW 2021, 2023 (demo-program)
         - ICDE 2019 (research track)

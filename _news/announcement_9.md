@@ -4,4 +4,4 @@ date: 2022-05-09 07:59:00-0400
 inline: true
 ---
 
-I will serve as a Demo Program Committee at BTW'23.
+I will serve as a Demo Program Committee member at BTW 2023.
