@@ -68,8 +68,12 @@
 - title: Academic Activity
   type: nested_list
   contents:
-    - title: Program committee memberships
+    - title: Chair
       items: 
+        - 12th International Workshop on Quality in Databases at VLDB 2023 (<a href='https://hpi.de/naumann/projects/conferences-and-workshops-hosted/qdb-2023.html'> workshop website </a>)
+    - title: Program committee memberships
+      items:
+        - LWDA 2023 (the database track)
         - DBML 2022, 2023
         - SIGMOD 2022 (research track) --> <a href='https://sigmod.org/sigmod-distinguished-aes-and-pcs/'>Listed as a distinguished reviewer</a>
         - BTW 2021, 2023 (demo-program)

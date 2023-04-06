@@ -12,11 +12,11 @@ nav_order: 3
 
 ## Lectures
 
-- Database I (SoS2023) (planned)
+- <a href='https://hpi.de/naumann/teaching/current-courses/ss-23/database-systems-i.html'>Database I</a> (SoS2023)
 
 
 ## Seminars
-- Data quality for AI (SoS2023) (planned)
+- <a href='https://hpi.de/naumann/teaching/current-courses/ss-23/data-quality-for-ai.html'>Data quality for AI</a> (SoS2023)
 - <a href='https://hpi.de/naumann/teaching/current-courses/ws-21-22/data-quality-for-ai.html'>Data quality for AI</a> (WS2021/22)
 - <a href='https://hpi.de/naumann/teaching/teaching/ss-19/processing-web-tables.html'>Processing Web Tables</a> (SoS2019)
 - <a href='https://hpi.de/naumann/teaching/teaching/ws-1718/advanced-data-profiling-ps-master.html'>Advanced Data Profiling</a> (WS2017/18)
@@ -24,6 +24,7 @@ nav_order: 3
 
 ## Master Thesis
 
+- Quantifying the Diversity of a Structured Dataset (Lisa Koeritz, ongoing)
 - Semantic Type Detection for Numeric Data (Jonathan Haas, ongoing)
 - Der Einfluss von Datenqualitätsmängeln auf Fairness in KI-Systemen (Isabel Bär, 2022)
 - Discovery of Complementation Dependencies (Jonas Hering, 2022)
