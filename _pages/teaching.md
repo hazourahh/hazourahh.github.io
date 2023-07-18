@@ -25,8 +25,7 @@ nav_order: 3
 ## Master Thesis
 
 - Quantifying the Diversity of a Structured Dataset (Lisa Koeritz, ongoing)
-- Semantic Type Detection for Numeric Data (Jonathan Haas, ongoing)
-- Der Einfluss von Datenqualitätsmängeln auf Fairness in KI-Systemen (Isabel Bär, 2022)
+- Semantic Type Detection for Numeric Data (Jonathan Haas, 2023)
 - Discovery of Complementation Dependencies (Jonas Hering, 2022)
 - Inferring Regular Expressions from Database Columns (Tobias Niedling, 2021)
 - Finding Related Tables on the Web (Fabian Windheuser, 2019)
