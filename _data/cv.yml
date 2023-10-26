@@ -28,6 +28,12 @@
 - title: Experience
   type: time_table
   contents:
+  - title: Assistant Professor 
+      institution: INDE lab | University of Amsterdam, Netherlands
+      year: 2023-Now
+      description:
+        - "Research focus: Data quality for/with artificial intelligence"
+        
     - title: Postdoctoral Research Scientist
       institution: Hasso-Plattner-Institut | Universität Potsdam, Germany
       year: 2020-2023
