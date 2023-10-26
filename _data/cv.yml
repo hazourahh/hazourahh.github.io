@@ -28,9 +28,9 @@
 - title: Experience
   type: time_table
   contents:
-  - title: Assistant Professor 
+    - title: Assistant Professor 
       institution: INDE lab | University of Amsterdam, Netherlands
-      year: 2023-2025
+      year: 2023-now
       description:
         - "Research focus: Data quality for/with artificial intelligence"
         
