@@ -15,7 +15,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 I am a member of the <a href='https://indelab.org/people/'> Intelligent Data Engineering Lab</a> at the Informatics Institute of the University of Amsterdam, Netherlands. My research focus is on the field of data quality for and with machine learning.
 
-Before that, I was a member of the <a href='https://hpi.de/naumann/home.html'>Information Systems Group</a> at the Hasso Plattner Institute, University of Potsdam. During my doctoral research, I worked in the field of data profiling with the aim of developing algorithms for efficiently processing and analyzing large volumes of data.
+Before that, I was a Postdoc at the <a href='https://hpi.de/naumann/home.html'>Information Systems Group</a> at the Hasso Plattner Institute, University of Potsdam. During my doctoral research at the same group, I worked in the field of data profiling with the aim of developing algorithms for efficiently processing and analyzing large volumes of data.
 
 Beyond my research, I am also interested in keeping up with the latest developments in machine learning, data management, and integration. I am also constantly looking for new collaboration opportunities!
 Outside of work, I enjoy traveling, reading, cooking and training.
