@@ -2,25 +2,20 @@
 layout: about
 title: Bio
 permalink: /
-subtitle: Postdoctoral Researcher at Hasso-Plattner-Institut | Universität Potsdam
+subtitle: Assistant Professor at the Informatics Institute | University of Amsterdam
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  address: >
-    <p>Hasso-Plattner-Institut</p>
-    <p>Prof.-Dr.-Helmert-Straße 2-3</p>
-    <p>D-14482 Potsdam</p>
-    <p>Room:F-2.08</p>
-    <p>+49 331 5509 1380</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-I am a member of the <a href='https://hpi.de/naumann/home.html'>Information Systems Group</a> led by <a href='https://hpi.de/naumann/people/felix-naumann.html'>Prof. Dr. Felix Naumann</a> at the Hasso Plattner Institute, University of Potsdam.
-My research focus is on the field of data quality for and with machine learning. During my doctoral research, I worked in the field of data profiling with the aim of developing algorithms for efficiently processing and analyzing large volumes of data.
+I am a member of the <a href='https://indelab.org/people/'> Intelligent Data Engineering Lab</a> at the Informatics Institute of the University of Amsterdam, Netherlands. My research focus is on the field of data quality for and with machine learning.
+
+Before that, I was a member of the <a href='https://hpi.de/naumann/home.html'>Information Systems Group</a> at the Hasso Plattner Institute, University of Potsdam. During my doctoral research, I worked in the field of data profiling with the aim of developing algorithms for efficiently processing and analyzing large volumes of data.
 
 Beyond my research, I am also interested in keeping up with the latest developments in machine learning, data management, and integration. I am also constantly looking for new collaboration opportunities!
 Outside of work, I enjoy traveling, reading, cooking and training.
