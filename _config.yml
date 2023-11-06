@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Hazar
 middle_name:
 last_name: Harmouch, PhD.
-email: hazar.harmouch@hpi.de
+email: h.harmouch@uva.nl
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A personal website for Dr. Hazar Harmouch.
 footer_text: >
@@ -79,7 +79,7 @@ orcid_id: 0000-0001-9967-5347 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: https://www.researchgate.net/profile/Hazar-Harmouch # your profile on ResearchGate
+research_gate_profile: Hazar-Harmouch # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name

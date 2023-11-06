@@ -6,6 +6,12 @@ description:
 nav: true
 nav_order: 3
 ---
+# UVA, Amesterdam, Netherlands
+---
+
+## Lectures
+- Big Data (WS2023/24)
+
 
 # HPI, Potsdam, Germany
 ---
@@ -24,7 +30,7 @@ nav_order: 3
 
 ## Master Thesis
 
-- Quantifying the Diversity of a Structured Dataset (Lisa Koeritz, ongoing)
+- Quantifying the Diversity of a Structured Dataset (Lisa Koeritz, 2023)
 - Semantic Type Detection for Numeric Data (Jonathan Haas, 2023)
 - Discovery of Complementation Dependencies (Jonas Hering, 2022)
 - Inferring Regular Expressions from Database Columns (Tobias Niedling, 2021)

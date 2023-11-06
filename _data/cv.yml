@@ -80,10 +80,10 @@
     - title: Program committee memberships
       items:
         - LWDA 2023 (the database track)
-        - DBML 2022, 2023
+        - DBML 2022, 2023, 2024
         - SIGMOD 2022 (research track) --> <a href='https://sigmod.org/sigmod-distinguished-aes-and-pcs/'>Listed as a distinguished reviewer</a>
         - BTW 2021, 2023 (demo-program)
-        - ICDE 2019 (research track)
+        - ICDE 2019 (research track), 2023 (Demo track)
     - title: Journals reviewer
       items:
         - The VLDB Journal
@@ -92,6 +92,7 @@
         - JDIQ. Journal of Data and Information Quality
         - Semantic web journal
         - TKDE. Transactions on Knowledge and Data Engineering
+        - Information Systems
         - The Computer Journal - Oxford Academic
 
     - title: Invited talks
