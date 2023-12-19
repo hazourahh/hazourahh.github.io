@@ -10,7 +10,6 @@ nav_order: 3
 ---
 
 ## Lectures
-
 - Big Data (WS2023/24)
 
 
