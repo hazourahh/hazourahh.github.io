@@ -5,7 +5,7 @@ date: 2021-02-12 15:59:00-0400
 inline: false
 ---
 
-I am happy to announce that our research paper titeled "Relational Header Discovery using Similarity Search in a Table Corpus" has been accepted for presentation at the 37th IEEE International Conference on Data Engineering (ICDE 2021).  The conference will take place virtually between 19-22 April, 2021.
+I am happy to announce that our research paper titled "Relational Header Discovery using Similarity Search in a Table Corpus" has been accepted for presentation at the 37th IEEE International Conference on Data Engineering (ICDE 2021).  The conference will take place virtually between 19-22 April, 2021.
 
 Authors: Hazar Harmouch, Thorsten Papenbrock, Felix Naumann
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An article about our project "sales comparision approach"
+title: An article about our project "sales comparison approach"
 date: 2021-11-08 16:11:00-0400
 inline: false
 ---

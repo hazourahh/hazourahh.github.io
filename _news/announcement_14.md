@@ -7,7 +7,7 @@ inline: false
 
 Our paper "Discovery of Genuine Functional Dependencies from Relational Data with Missing Values",  has been accepted for presentation at the 44th International Conference on Very Large Data Bases (VLDB 2018). VLDB 2018 will take place in Rio de Janeiro, Brazil, from August 27th to August 31st, 2018.
 
-Authors: Laure Berti-Equille, Hazar Harmouch, Felix Naumann, Noel Novelli, andSaravanan Thirumuruganathan 
+Authors: Laure Berti-Equille, Hazar Harmouch, Felix Naumann, Noel Novelli, and Saravanan Thirumuruganathan 
 
 ***
 
