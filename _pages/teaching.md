@@ -6,10 +6,11 @@ description:
 nav: true
 nav_order: 3
 ---
-# UVA, Amesterdam, Netherlands
+# UVA, Amsterdam, Netherlands
 ---
 
 ## Lectures
+
 - Big Data (WS2023/24)
 
 
