@@ -76,14 +76,14 @@
   contents:
     - title: Chair
       items: 
-        - 12th International Workshop on Quality in Databases at VLDB 2023 (<a href='https://hpi.de/naumann/projects/conferences-and-workshops-hosted/qdb-2023.html'> workshop website </a>)
+        - The International Workshop on Quality in Databases at VLDB 2023 & 2024.
     - title: Program committee memberships
       items:
         - LWDA 2023 (the database track)
         - DBML 2022, 2023, 2024
-        - SIGMOD 2022, 2025 (research track) --> <a href='https://sigmod.org/sigmod-distinguished-aes-and-pcs/'>Listed as a distinguished reviewer in 2022</a>
-        - BTW 2021, 2023 (demo-program)
-        - ICDE 2019 (research track), 2023 (Demo track)
+        - SIGMOD 2022, 2025 --> <a href='https://sigmod.org/sigmod-distinguished-aes-and-pcs/'>Listed as a distinguished reviewer in 2022</a>
+        - BTW 2021 (demo track), 2023 (demo track), 2025
+        - ICDE 2019 , 2023 (demo track)
     - title: Journals reviewer
       items:
         - The VLDB Journal
