@@ -10,7 +10,15 @@ nav_order: 3
 ---
 
 ## Lectures
+
+- Big Data (WS2024/25)
+- Data Preparation (WS2024/25)
 - Big Data (WS2023/24)
+
+
+## Master Thesis
+-Using derived source code information to enhance contextualized code generation of Large Language Models (Dimitri Hooftman, ongoing)
+- Transaction Filtering using Entity Linking to Sanctioned Entity Knowledge Base (Jing Hu, ongoing)
 
 
 # HPI, Potsdam, Germany
@@ -28,8 +36,7 @@ nav_order: 3
 - <a href='https://hpi.de/naumann/teaching/teaching/ws-1718/advanced-data-profiling-ps-master.html'>Advanced Data Profiling</a> (WS2017/18)
 
 
-## Master Thesis
-
+## Master Thesisß
 - Quantifying the Diversity of a Structured Dataset (Lisa Koeritz, 2023)
 - Semantic Type Detection for Numeric Data (Jonathan Haas, 2023)
 - Discovery of Complementation Dependencies (Jonas Hering, 2022)
