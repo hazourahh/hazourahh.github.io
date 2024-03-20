@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Systems for AI Data Quality in Finance
-description: The impact of data errors on the output of AI models is difficult to anticipate and measure, and these errors can negatively impact regulatory compliance. Therefore, this project aims to enable non-technical users to validate and increase the quality of their data. For that, these users should be able to express data quality rules in natural language. We will design a data driven approach to leverage such rules to assist a domain expert to finetune data quality rules and “stress test” downstream AI models. This project favors a strong data engineering background combined with an interest to engage with European regulation applicable to financial data.
-redirect: https://www.uva.nl/en/research/research-at-the-uva/artificial-intelligence/ai4fintech/ai-for-fin-tech.html#Systems-for-AI-Data-Quality-in-Finance
+title: Cardinality Estimation
+description: Among the most important types of metadata is the number of distinct values in a column, also known as the zeroth-frequency moment. Cardinality estimation itself has been an active research topic in the past decades due to its many applications. The aim of this work is to review the literature of cardinality estimation and to present a detailed experimental study of twelve algorithms, scaling far beyond the original experiments.
+redirect: https://hpi.de//en/naumann/projects/repeatability/data-profiling/cardinality-estimation.html
 img: assets/img/cardinality.png
 importance: 5
-category: Active
+category: Completed
 ---
 
 Every project has a beautiful feature showcase page.

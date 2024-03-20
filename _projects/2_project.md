@@ -5,7 +5,7 @@ description: A project in cooperation with QCRI. It provides a fresh view on dat
 redirect: http://metanome.de/
 img: assets/img/metanome.jpg
 importance: 2
-category: Active
+category: Completed
 ---
 
 Every project has a beautiful feature showcase page.

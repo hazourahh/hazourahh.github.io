@@ -5,7 +5,7 @@ description: An interdisciplinary project in collaboration with VDE, Tübingen a
 redirect: https://hpi.de/naumann/projects/data-integration-data-quality-and-data-cleansing/kitqar-data-quality-for-ai-applications.html
 img: assets/img/KITQAR.jpg
 importance: 1
-category: Active
+category: Completed
 ---
 
 Every project has a beautiful feature showcase page.
