@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Cardinality Estimation
-description: Among the most important types of metadata is the number of distinct values in a column, also known as the zeroth-frequency moment. Cardinality estimation itself has been an active research topic in the past decades due to its many applications. The aim of this work is to review the literature of cardinality estimation and to present a detailed experimental study of twelve algorithms, scaling far beyond the original experiments.
-redirect: https://hpi.de//en/naumann/projects/repeatability/data-profiling/cardinality-estimation.html
-img: assets/img/cardinality.png
+title: Data quality and ML
+description: We explore empirically the relationship between data quality dimensions and the performance of widely used machine learning (ML) algorithms covering the tasks of classification, regression, and clustering, with the goal of explaining their performance in terms of data quality.
+redirect: https://hpi.de/naumann/projects/repeatability/data-quality-and-ai.html
+img: assets/img/effect.png
 importance: 5
-category: Completed
+category: Active
 ---
 
 Every project has a beautiful feature showcase page.

@@ -1,11 +1,15 @@
 ---
 layout: page
 title: Cardinality Estimation
-description: Among the most important types of metadata is the number of distinct values in a column, also known as the zeroth-frequency moment. Cardinality estimation itself has been an active research topic in the past decades due to its many applications. The aim of this work is to review the literature of cardinality estimation and to present a detailed experimental study of twelve algorithms, scaling far beyond the original experiments.
-redirect: https://hpi.de//en/naumann/projects/repeatability/data-profiling/cardinality-estimation.html
-img: assets/img/cardinality.png
+description: We establish a systematic and comprehensive
+framework for the (numeric) assessment of data quality for a given
+dataset and its intended use. Such a framework must cover the
+various facets that influence data quality, as well as the many types
+of data quality dimensions.
+redirect: 
+img: assets/img/assesment.png
 importance: 5
-category: Completed
+category: Active
 ---
 
 Every project has a beautiful feature showcase page.

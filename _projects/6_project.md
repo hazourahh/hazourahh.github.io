@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Systems for AI Data Quality in Finance
-description: The impact of data errors on the output of AI models is difficult to anticipate and measure, and these errors can negatively impact regulatory compliance. Therefore, this project aims to enable non-technical users to validate and increase the quality of their data. For that, these users should be able to express data quality rules in natural language. We will design a data driven approach to leverage such rules to assist a domain expert to finetune data quality rules and “stress test” downstream AI models. This project favors a strong data engineering background combined with an interest to engage with European regulation applicable to financial data.
+description: This project aims to enable non-technical users to validate and increase the quality of their data. For that, these users should be able to express data quality rules in natural language. We will design a data driven approach to leverage such rules to assist a domain expert to finetune data quality rules and “stress test” downstream AI models. This project favors a strong data engineering background combined with an interest to engage with European regulation applicable to financial data.
 redirect: https://www.uva.nl/en/research/research-at-the-uva/artificial-intelligence/ai4fintech/ai-for-fin-tech.html#Systems-for-AI-Data-Quality-in-Finance
-img: assets/img/cardinality.png
+img: assets/img/AI-act.jpg
 importance: 5
 category: Active
 ---
