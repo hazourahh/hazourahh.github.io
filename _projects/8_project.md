@@ -6,7 +6,7 @@ framework for the (numeric) assessment of data quality for a given
 dataset and its intended use. Such a framework must cover the
 various facets that influence data quality, as well as the many types
 of data quality dimensions.
-redirect: 
+redirect: https://arxiv.org/pdf/2403.00526.pdf
 img: assets/img/assesment.png
 importance: 5
 category: Active
