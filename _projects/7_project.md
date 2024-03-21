@@ -4,7 +4,7 @@ title: Data quality and ML
 description: We explore empirically the relationship between data quality dimensions and the performance of widely used machine learning (ML) algorithms covering the tasks of classification, regression, and clustering, with the goal of explaining their performance in terms of data quality.
 redirect: https://hpi.de/naumann/projects/repeatability/data-quality-and-ai.html
 img: assets/img/effect.png
-importance: 5
+importance: 3
 category: Active
 ---
 
