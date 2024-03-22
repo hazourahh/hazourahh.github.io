@@ -8,11 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: true # crops the image to make it circular
-  more_info: >
-    <p>Lab42 Room L4.17</p>
-    <p>Science Park 900</p>
-    <p>1098 XH Amsterdam</p>
-
+  
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page

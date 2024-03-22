@@ -17,7 +17,8 @@ nav_order: 3
 
 
 ## Master Thesis
--Using derived source code information to enhance contextualized code generation of Large Language Models (Dimitri Hooftman, ongoing)
+
+- Using derived source code information to enhance contextualized code generation of Large Language Models (Dimitri Hooftman, ongoing)
 - Transaction Filtering using Entity Linking to Sanctioned Entity Knowledge Base (Jing Hu, ongoing)
 
 
