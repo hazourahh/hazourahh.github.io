@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Data Quality Assesment
+title: Data Quality Assessment
 description: We establish a systematic and comprehensive framework for the (numeric) assessment of data quality for a given dataset and its intended use. Such a framework must cover the various facets that influence data quality, as well as the many types of data quality dimensions.
 redirect: https://arxiv.org/pdf/2403.00526.pdf
 img: assets/img/assesment.png
