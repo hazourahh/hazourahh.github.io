@@ -19,5 +19,9 @@ profiles:
     content: about_yichun.md
     image_circular: true # crops the image to make it circular
   - align: left
+    image: profile-picture.avif
+    content: about_david.md
+    image_circular: true # crops the image to make it circular
+  - align: left
     content: master_student.md
 ---
