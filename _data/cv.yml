@@ -77,6 +77,10 @@
     - title: Chair
       items: 
         - The International Workshop on Quality in Databases at VLDB 2023 & 2024.
+    - title: Editor
+      items:
+        - <a href='https://dl.acm.org/pb-assets/static_journal_pages/jdiq/pdf/ACM_JDIQ_SI_Data_Fairification_v1-1707991662263.pdf'>ACM JDIQ Special issue</a> on Data quality dimensions in Data FAIRification design and processes.
+        - Frontiers <a href='https://www.frontiersin.org/research-topics/63975/contesting-artificial-intelligence-communicative-practices-organizational-structures-and-enabling-technologies'> Research Topic </a> on Contesting Artificial Intelligence: Communicative Practices, Organizational Structures, and Enabling Technologies
     - title: Program committee memberships
       items:
         - LWDA 2023 (the database track)
@@ -89,7 +93,7 @@
         - The VLDB Journal
         - SIGMOD Record
         - TODS. ACM Transactions on Database Systems
-        - JDIQ. Journal of Data and Information Quality
+        - JDIQ. Journal of Data and Information Quality (Member of the Editorial Review Board)
         - Semantic web journal
         - TKDE. Transactions on Knowledge and Data Engineering
         - Information Systems
