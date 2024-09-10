@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: Organizing QDB24@ VLDB24 in Guangzhou, China
+title: Organizing QDB24@ VLDB24 in Guangzhou, China
 date: 2024-08-23 07:59:00-0400
 inline: false
 ---
