@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Papers accepted at Information Systems Journal
+title: Paper accepted at Information Systems Journal
 date: 2025-03-05 15:59:00-0400
 inline: false
 ---

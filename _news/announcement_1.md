@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Papers accepted at ICDE 2021
+title: Paper accepted at ICDE 2021
 date: 2021-02-12 15:59:00-0400
 inline: false
 ---

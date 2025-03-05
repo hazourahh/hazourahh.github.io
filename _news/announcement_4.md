@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Papers accepted at CIKM 2019
+title: Paper accepted at CIKM 2019
 date: 2019-08-09 15:59:00-0400
 inline: false
 ---

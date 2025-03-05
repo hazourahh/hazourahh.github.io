@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Papers accepted at VLDB 2018
+title: Paper accepted at VLDB 2018
 date: 2018-03-16 15:59:00-0400
 inline: false
 ---

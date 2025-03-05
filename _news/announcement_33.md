@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Papers accepted at EDBT 2025
+title: Paper accepted at EDBT 2025
 date: 2025-02-05 15:59:00-0400
 inline: false
 ---
