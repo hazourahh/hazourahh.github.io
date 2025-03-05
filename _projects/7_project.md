@@ -5,7 +5,7 @@ description: We explore empirically the relationship between data quality dimens
 redirect: https://hpi.de/naumann/projects/repeatability/data-quality-and-ai.html
 img: assets/img/effect.png
 importance: 3
-category: Active
+category: Completed
 ---
 
 Every project has a beautiful feature showcase page.

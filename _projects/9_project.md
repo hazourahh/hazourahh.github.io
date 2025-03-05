@@ -3,7 +3,7 @@ layout: page
 title: BASIL
 description: The intricate relationship between bioactive compounds and health outcomes necessitates a robust framework for scientific exploration and hypothesis generation. This project introduces a comprehensive database, BASIL (BioActive Semantic Integration and Linking Database), designed to aggregate and analyze data on various bioactives derived from natural sources and their associated health effects.
 redirect: https://basil-db.github.io/info.html
-img: assets/img/basil.pdf
+img: assets/img/basil.png
 importance: 2
 category: Active
 ---
