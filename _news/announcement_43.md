@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Paper accepted at EDBT 2025
+title: Paper accepted at SIGMOD Record
 date: 2025-04-09 15:59:00-0400
 inline: false
 ---
