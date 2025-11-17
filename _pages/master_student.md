@@ -22,7 +22,6 @@
 <li> <b>Chenyue Zhang</b>: A Multi-Agent LLM framework for automated data quality analysis and visualization (University of Amsterdam, Netherlands, 2025)</li>
 <li> <b>Vardan Narula</b>: Leveraging AI for automated functional test case generation and execution to enhance the software development lifecycle (University of Amsterdam, Netherlands, 2025)</li>
 <li> <b>Jing Hu</b>: Transaction filtering using entity linking to sanctioned entity knowledge Base (University of Amsterdam, Netherlands, 2024)</li>
-</ul>
  <li> <b>Dimitri Hooftman</b>: Using derived source code information to enhance contextualized code generation of Large Language Models (University of Amsterdam, Netherlands, 2024)</li>
  <li> <b>Daniel Garcia Gaviria </b>: Evaluating the Effectivity of AutoML Platforms and Large Language Models for Automated Data Cleaning in Machine Learning (University of Amsterdam, Netherlands, 2024)</li>
  <li> <b>Lisa Koeritz</b>: Quantifying the Diversity of a Structured Dataset (Master Student, Hasso Plattner Institute, Germany, 2023) </li> 
