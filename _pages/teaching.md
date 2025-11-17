@@ -1,14 +1,16 @@
 ---
+description: 
 layout: page
-permalink: /teaching/
-title: Teaching
-description:
 nav: true
 nav_order: 3
----
-## Lectures
+permalink: /teaching/
+title: Teaching
 ---
 
+## Lectures
+---
+- Big Data (WS2025/26), University of Amsterdam, Netherlands
+- Data Preparation (WS2025/26), University of Amsterdam, Netherlands
 - Big Data (WS2024/25), University of Amsterdam, Netherlands
 - Data Preparation (WS2024/25), University of Amsterdam, Netherlands
 - Big Data (WS2023/24), University of Amsterdam, Netherlands
