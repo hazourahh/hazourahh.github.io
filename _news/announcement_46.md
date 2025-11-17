@@ -1,8 +1,8 @@
 ---
-date: 2025-04-09 15:59:00-0400
+date: 2025-08-06 15:59:00-0400
 inline: false
 layout: post
-title: Paper accepted at SIGMOD Record
+title: Paper accepted at Journal of Biomedical Semantics
 ---
 
 I am happy to announce that our research paper titled "BASIL DB: BioActive Semantic Integration and Linking Database" has been accepted for publication at Journal of Biomedical Semantics.

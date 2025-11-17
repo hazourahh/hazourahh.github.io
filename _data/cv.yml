@@ -28,6 +28,11 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Visiting Professor 
+      institution: Data Systems Group | University of Waterloo, Canada
+      year: Sep2025-Nov2025
+      description:
+        - "Research focus: Data quality for/with artificial intelligence"
     - title: Assistant Professor 
       institution: INDE lab | University of Amsterdam, Netherlands
       year: 2023-now
