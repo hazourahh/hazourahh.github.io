@@ -1,11 +1,11 @@
 ---
-layout: post
-title: Paper accepted at SIGMOD Record
 date: 2025-04-09 15:59:00-0400
 inline: false
+layout: post
+title: Paper accepted at SIGMOD Record
 ---
 
-I am happy to announce that our research paper titled "" has been accepted for publication at SIGMOD Record.
+I am happy to announce that our research paper titled “The Five Facets of Data Quality Assessment” has been accepted for publication at SIGMOD Record.
 
 Authors: Sedir Mohammed, Lisa Ehrlinger, Hazar Harmouch, Felix Naumann, Divesh Srivastava
 
