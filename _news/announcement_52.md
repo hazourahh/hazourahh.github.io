@@ -4,4 +4,4 @@ inline: true
 layout: post
 ---
 
-Next week, I will be in Montréal, Canada attending <a href= ‘https://icde2026.github.io/‘ > ICDE 26 </a>. Come and say hi!
+Next week, I will be in Montréal, Canada attending <a href= 'https://icde2026.github.io/' > ICDE 26 </a>. Come and say hi!
